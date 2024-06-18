@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="959824d5-1edb-4ee4-9cad-24984c549ef9" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2bhzUtJWtwgi3BX84kpslHiO2Pt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="partend" type="Python.FlaskServer">
+      <module name="partend" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="959824d5-1edb-4ee4-9cad-24984c549ef9" name="Changes" comment="" />
+      <created>1706682117589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706682117589</updated>
+      <workItem from="1706682134340" duration="4014000" />
+      <workItem from="1706694976531" duration="7052000" />
+      <workItem from="1706772244280" duration="9608000" />
+      <workItem from="1706856364402" duration="11592000" />
+      <workItem from="1706881014210" duration="528000" />
+      <workItem from="1707114080177" duration="18925000" />
+      <workItem from="1707202552046" duration="13000" />
+      <workItem from="1707202586513" duration="3516000" />
+      <workItem from="1707287298992" duration="58000" />
+      <workItem from="1707288347833" duration="622000" />
+      <workItem from="1707733202544" duration="1816000" />
+      <workItem from="1707805319007" duration="27000" />
+      <workItem from="1709205675064" duration="1032000" />
+      <workItem from="1710148497772" duration="129000" />
+      <workItem from="1710339145051" duration="6000" />
+      <workItem from="1711449528412" duration="1213000" />
+      <workItem from="1712577492499" duration="1585000" />
+      <workItem from="1712579225796" duration="794000" />
+      <workItem from="1712642556112" duration="24000" />
+      <workItem from="1712729034723" duration="3560000" />
+      <workItem from="1712836827821" duration="1435000" />
+      <workItem from="1712907388253" duration="23000" />
+      <workItem from="1713436207472" duration="7000" />
+      <workItem from="1713783457668" duration="5821000" />
+      <workItem from="1713852297555" duration="5982000" />
+      <workItem from="1713945554811" duration="6944000" />
+      <workItem from="1714025166828" duration="1500000" />
+      <workItem from="1714052944470" duration="248000" />
+      <workItem from="1714053295367" duration="632000" />
+      <workItem from="1714111251343" duration="5096000" />
+      <workItem from="1714202972830" duration="51000" />
+      <workItem from="1714996587678" duration="1255000" />
+      <workItem from="1715061863958" duration="7000" />
+      <workItem from="1717053215823" duration="2174000" />
+      <workItem from="1717135421047" duration="2792000" />
+      <workItem from="1717410163313" duration="6000" />
+      <workItem from="1718693214083" duration="1576000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/partend$partend.coverage" NAME="partend Coverage Results" MODIFIED="1718693226492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
