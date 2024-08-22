@@ -12,7 +12,7 @@ align-items: center;
 
 
 .img{
-    background-image: url(/static/img/fone.png);
+    background-image: url(https://kalix.club/uploads/posts/2022-12/1671535567_kalix-club-p-oboi-na-rabochii-stol-gorod-budushchego-kr-8.jpg);
 
     height: 1080px;
     background-size: cover;
@@ -21,7 +21,7 @@ align-items: center;
 
 @media screen and (max-width: 1680px){
 .img {
-    background-image: url(/static/img/fone.png);
+    background-image: url(https://kalix.club/uploads/posts/2022-12/1671535567_kalix-club-p-oboi-na-rabochii-stol-gorod-budushchego-kr-8.jpg);
 
     height: 900px;
     background-size: cover;
@@ -30,7 +30,7 @@ align-items: center;
 }
 @media screen and (max-width: 1350px){
 .img {
-    background-image: url(/static/img/fone.png);
+    background-image: url(https://kalix.club/uploads/posts/2022-12/1671535567_kalix-club-p-oboi-na-rabochii-stol-gorod-budushchego-kr-8.jpg);
 
     height: 720px;
     background-size: cover;
@@ -39,7 +39,7 @@ align-items: center;
 }
 @media screen and (max-width: 1350px){
 .img {
-    background-image: url(/static/img/fone.png);
+    background-image: url(https://kalix.club/uploads/posts/2022-12/1671535567_kalix-club-p-oboi-na-rabochii-stol-gorod-budushchego-kr-8.jpg);
 
     height: 700px;
     background-size: cover;
@@ -48,7 +48,7 @@ align-items: center;
 }
 @media screen and (max-width: 980px){
 .img {
-    background-image: url(/static/img/fone.png);
+    background-image: url(https://kalix.club/uploads/posts/2022-12/1671535567_kalix-club-p-oboi-na-rabochii-stol-gorod-budushchego-kr-8.jpg);
 
     height: 550px;
     background-size: cover;
